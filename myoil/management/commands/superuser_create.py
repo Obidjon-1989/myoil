@@ -14,7 +14,7 @@ class Command(BaseCommand):
         password = os.environ.get('password')
         email = os.environ.get('email')
 
-        if not CustomUser.objects.filter(username=username).exists():  # CustomUser modelidan foydalaning
+        if not CustomUser.objects.filter(username=username).exists():
             CustomUser.objects.create_superuser(username=username, password=password, email=email)
             self.stdout.write(self.style.SUCCESS('Superuser successfully created'))
         else:
