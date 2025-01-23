@@ -10,9 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2rvQbwYaWFivchWU1jvuFBxIcOF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,15 +21,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/9. Django/Djago Rest Framework/myoil/config",
+    "last_opened_file_path": "D:/9. Django/Djago Rest Framework/myoil/media/product/service_providers",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\9. Django\Djago Rest Framework\myoil\media\product\service_providers" />
+      <recent name="D:\9. Django\Djago Rest Framework\myoil\media\product\images" />
+      <recent name="D:\9. Django\Djago Rest Framework\myoil\media\product\certificates" />
+      <recent name="D:\9. Django\Djago Rest Framework\myoil\media\product\brandcertificates" />
       <recent name="D:\9. Django\Djago Rest Framework\myoil\config" />
-      <recent name="D:\9. Django\Djago Rest Framework\myoil" />
-      <recent name="D:\9. Django\Djago Rest Framework\myoil\myoil" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
